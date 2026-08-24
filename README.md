@@ -18,4 +18,4 @@ An ambitious Information Systems student at Universitas Trunojoyo Madura with a 
 ---
 
 ### GitHub Stats
-![Fall's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallzerr&show_icons=true&theme=radical)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/yourusername/github-readme-stats)
