@@ -13,9 +13,9 @@ An ambitious Information Systems student at Universitas Trunojoyo Madura with a 
 - **Learning:** Loving Her
 
 ### Live Project
-- **Personal Portfolio Website:** [NHEETXX.github.io/portofolio](https://NHEETXX.github.io/portofolio/)
+- **Personal Portfolio Website:** [nheetxx.github.io/portofolio](https://nheetxx.github.io/portofolio/)
 
 ---
 
 ### GitHub Stats
-![NHEETXX's GitHub stats](https://github-readme-stats.vercel.app/api?username=NHEETXX&show_icons=true&theme=radical)
+![nheetxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=nheetxx&show_icons=true&theme=radical)
