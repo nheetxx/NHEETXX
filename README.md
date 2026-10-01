@@ -26,5 +26,4 @@ An ambitious Information Systems student at Universitas Trunojoyo Madura with a 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nheetxx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=nheetxx&icon=0&color=0)](https://visitcount.itsvg.in)
-![Visitor Count](https://profile-counter.glitch.me/nheetxx/count.svg)
+[![](https://komarev.com/ghpvc/?username=nheetxx&icon=0&color=blue)](https://visitcount.itsvg.in)
