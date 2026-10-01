@@ -6,7 +6,8 @@ An ambitious Information Systems student at Universitas Trunojoyo Madura with a 
 
 ### Connect with Me
 - **LinkedIn:** [linkedin.com/in/fajarin-naufal](https://www.linkedin.com/in/fajarin-naufal-185348375/)
-- **Email:** naufaldest@gmail.com
+- **Instagram:** [https://www.instagram.com/nheetxx/](https://www.instagram.com/nheetxx/)
+- **Email:** fallpbaca@gmail.com
 
 ### Tech Stack & Interests
 - **Focus:** Cyber Security | Network Security | Information Security
