@@ -1,6 +1,4 @@
-<div align="center">
-  ![rule34](https://mini.moonlab.top/post/20231224-14/rule34.svg)
-</div>
+![rule34](https://mini.moonlab.top/post/20231224-14/rule34.svg)
 
 ![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Hello%20World%2C%20I'm%20Fall!&theme=dark&color=%23ff0000&particleColor=%23000000&background=%23ff0000)
 
