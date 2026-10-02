@@ -69,6 +69,9 @@ An ambitious Information Systems student at Universitas Trunojoyo Madura with a 
 
 ###
 
+---
+[![](https://komarev.com/ghpvc/?username=nheetxx&icon=0&color=blue)](https://visitcount.itsvg.in)
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nheetxx/nheetxx/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nheetxx/nheetxx/pacman-output/pacman-contribution-graph.svg?game=pacman">
